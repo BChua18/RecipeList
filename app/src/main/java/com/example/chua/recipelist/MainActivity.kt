@@ -57,28 +57,29 @@ class MainActivity : AppCompatActivity() {
                 "1. Place chopped mango in the bowl of a food processor fitted with the metal blade, and process until smooth. Transfer to a medium bowl. Add the water, lime juice, and sugar, and stir to dissolve.\n" +
                         "2. Pour mixture into a 9-by-5-inch deep-sided metal pan, and place in the freezer until nearly set, about 3 hours, whisking mixture every hour. Remove from freezer, and scrape surface with the tines of a fork until it is the texture of shaved ice. Return to freezer until ready to serve. Granita can be stored in an airtight container in the freezer up to 2 weeks."))
         recipe.add(Recipe(
-                R.drawable.dinuguan,
-                "Dinuguan",
-                "This soup is so good Essy and I ate it ALL the first time I made it.",
+                R.drawable.menudo,
+                "Menudo",
+                "Menudo is a popular Filipino pork dish and is ually served during gatherings and fiestas.",
                 "10 ounces pig's blood\n" +
-                        "1 cup vinegar\n" +
-                        "1 tablespoon oil\n" +
-                        "1 onion, peeled and chopped\n" +
-                        "4 cloves garlic, peeled and minced\n" +
-                        "1 small knob ginger (about 1 teaspoon), peeled and minced\n" +
-                        "2 pounds pork belly, cut into ½-inch strips\n" +
-                        "1 tablespoon fish sauce\n" +
+                        "2 tablespoons cooking oil\n" +
+                        "3 cloves garlic, minced\n" +
+                        "1 onion, chopped\n" +
+                        "1 kilo pork\n" +
+                        "1/2 cup soy sauce\n" +
+                        "1 teaspoon sugar\n" +
+                        "3/4 cup tomato sauce\n" +
                         "1 cup water\n" +
-                        "1 tablespoon brown sugar\n" +
-                        "2 finger chilies\n" +
-                        "salt and pepper to taste",
-                "1. Heat the oil in pan and sauté garlic and onions.\n" +
-                        "2. Add the mashed blood and allow to simmer.\n" +
-                        "3. Add the pork stock and boil.\n" +
-                        "4. Add vinegar. ...\n" +
-                        "5. Once boiling, season with sugar, salt, and pepper. ...\n" +
-                        "6. Turn off the fire and toss in fired pork belly and chicharon.\n" +
-                        "7. Garnish with green chili and serve immediately."))
+                        "2 to 3 pieces dried bay leaf\n" +
+                        "1/4 kilo pig liver\n" +
+                        "1 cup carrot, diced\n" +
+                        "salt, to taste\n" +
+                        "1 cup potatoes, diced",
+                "1. In a saucepan, saute garlic and onion in oil.\n" +
+                        "2. Add the pork. Cook for 5 minutes.\n" +
+                        "3. Pour in soy sauce, sugar, tomato sauce and water and then add the bay leaves. Simmer for 30 minutes or until the pork is tender.\n" +
+                        "4. Add the the liver and cook for 5 minutes.\n" +
+                        "5. Add potatoes, carrots, then season with salt, and pepper. Stir and cook for 15 minutes.\n" +
+                        "6. Garnish with green chili and serve immediately."))
         recipe.add(Recipe(
                 R.drawable.lime_mouse,
                 "Lime Mousse",

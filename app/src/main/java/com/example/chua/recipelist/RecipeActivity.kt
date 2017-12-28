@@ -11,7 +11,7 @@ import android.view.View
 
 
 
-class RecipeActivity : AppCompatActivity() {
+class   RecipeActivity : AppCompatActivity() {
 
     private var mRecipePicture: ImageView? = null
     private var mRecipeName: TextView? = null
